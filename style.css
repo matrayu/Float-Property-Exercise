@@ -17,16 +17,17 @@ body * {
 
   main {
       margin: 0 auto 0 auto;
-      padding: 0 150px 0 150px;
+      padding: 0 120px 0 120px;
+      max-width: 1065px;
   }
 
-.left {
+.left-image {
     float: left;
     width: 300px;
     margin: 18px 15px 15px 0px;
 }
 
-.right {
+.right-image {
     float: right;
     width: 300px;
     margin: 18px 0px 15px 15px;
